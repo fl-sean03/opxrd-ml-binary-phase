@@ -13,3 +13,6 @@ opxrd_data/
 
 # Ignore .npy files
 *.npy
+
+# Ignore specific documentation file
+docs/plan.md
