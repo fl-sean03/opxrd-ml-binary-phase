@@ -1,0 +1,15 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+myenv/
+
+# Ignore data directories
+data/
+opxrd_data/
+
+# Ignore .npy files
+*.npy
