@@ -1,5 +1,7 @@
 # OPXRD ML Binary Phase
 
+[Full Project Report](docs/Report.pdf)
+
 This project focuses on applying machine learning techniques to analyze binary phases using OPXRD (Operando X-ray Diffraction) data.
 
 ## Project Structure
