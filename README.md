@@ -26,7 +26,6 @@ pip install -r requirements.txt
 
 Refer to the documentation in the `docs/` directory for detailed instructions on running the data processing, model training, and analysis scripts.
 
-- `docs/plan.md`: Outlines the overall project plan.
 - `docs/rfc_implementation_plan.md`: Details the implementation plan.
 - `docs/opxrd_data_explanation.md`: Explains the OPXRD data.
 - `docs/analysis_summary.md`: Provides a summary of the analysis and results.
@@ -37,7 +36,6 @@ Detailed documentation for this project can be found in the `docs/` directory:
 
 - [Analysis Summary](docs/analysis_summary.md)
 - [OPXRD Data Explanation](docs/opxrd_data_explanation.md)
-- [Project Plan](docs/plan.md)
 - [RFC Implementation Plan](docs/rfc_implementation_plan.md)
 
 ## Results and Plots
